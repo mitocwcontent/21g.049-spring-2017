@@ -1,0 +1,20 @@
+---
+content_type: resource
+description: '"Children playing skittles, Place d''Erlon", Marne, Rheims, January-March
+  1917. Autochrome by Fernand Cuville. '
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21g-049-french-photography-spring-2017/d5a2ba7d57f998a4fd36431b91246bb8_Skittles.jpg
+file_type: image/jpeg
+image_metadata:
+  caption: '"Children playing skittles, Place d''Erlon", Marne, Rheims, January-March
+    1917.
+
+
+    In 1917, Cuville was employed by both in the Photography section of the French
+    army and the Archives of the Planet.'
+  credit: 'This image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Reims_place_Drouet_d%27Erlon_d%C3%A9but_1917.jpg).'
+  image-alt: A group of four boys playing with multicolored wooden toys on a cobblestone
+    street amidst rubble.
+resourcetype: Image
+title: Children Playing Skittles
+uid: d5a2ba7d-57f9-98a4-fd36-431b91246bb8
+---
